@@ -3,13 +3,17 @@
 ## 📦THE INVENTORY SYSTEM
 
 This Streamlit app is an Inventory Management System that allows you to:
+
 👀 View current inventory easily
+
 ➕ Add new items to stock
+
 🔄 Update existing item details
+
 ❌ Remove items from your inventory
 
 ## Try using https://neotracknxt.streamlit.app/
-## TO CHECK THE APP
+
 
 It displays the current stock in a clean, interactive table and provides sidebar forms for effortless management.
 
