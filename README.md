@@ -29,5 +29,8 @@ streamlit_inv/
 ├── app.py
 ├── README.md
 ├── requirements.txt
+└── pages/
+    ├── charts.py
+    └── kpi.py
 
 ```
