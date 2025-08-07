@@ -1,4 +1,4 @@
-#🔖 NEOTRACK NXT
+# 🔖 NEOTRACK NXT
 
 ## 📦THE INVENTORY SYSTEM
 
