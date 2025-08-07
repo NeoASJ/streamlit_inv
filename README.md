@@ -1,5 +1,7 @@
-🔖 # NEOTRACK NXT
-📦 ## THE INVENTORY SYSTEM
+#🔖 NEOTRACK NXT
+
+## 📦THE INVENTORY SYSTEM
+
 This Streamlit app is an Inventory Management System that allows you to:
 👀 View current inventory easily
 ➕ Add new items to stock
